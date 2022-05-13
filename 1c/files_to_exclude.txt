@@ -1,0 +1,9 @@
+1CHelpIndex
+1Cv8FTxt
+1Cv8JobScheduler
+*Log
+*.cfl
+*.1CL
+*tmp*
+DoNotCopy.txt
+*.cgr
